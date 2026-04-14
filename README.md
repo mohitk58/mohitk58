@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohit Kumar
 - 👀 I’m interested in playing Cricket & Vollyball
-- 🌱 I’m currently learning Redux Saga & Toolkit
+- 🌱 I’m currently NodeJs Saga & ExpressJs
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 How to reach me mk581991@gmail.com
 
